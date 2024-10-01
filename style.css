@@ -58,8 +58,9 @@ form .display {
 form .display input {
     text-align: right;
     flex: 1;
-    font-size: 45px;
+    font-size: 35px;
     box-shadow: none;
+    padding: 10px;
 }
 
 form input.equal {
